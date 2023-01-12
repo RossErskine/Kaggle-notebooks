@@ -2,4 +2,4 @@
 A repo for Kaggle Notebboks
 
 Contents:
-- [] Medical insurance
+- [ ] Medical insurance
