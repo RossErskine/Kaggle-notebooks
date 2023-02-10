@@ -2,4 +2,6 @@
 A repo for Kaggle Notebboks
 
 Contents:
-- [ ] Medical insurance
+- [x] Medical insurance
+- [ ] Medical Insurance Statistical
+- [ ] Laptop Prices
